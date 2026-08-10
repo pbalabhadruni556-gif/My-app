@@ -1,9 +1,0 @@
-* { box-sizing: border-box; }
-html, body { margin: 0; padding: 0; }
-body {
-  font-family: 'Work Sans', sans-serif;
-  background: #D9CDA6;
-  color: #22262B;
-}
-input, button { font-family: inherit; }
-button { cursor: pointer; }
